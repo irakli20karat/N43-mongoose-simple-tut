@@ -142,3 +142,6 @@ async function run() {
 
 run();
 // ----------------------------------------------
+// https://github.com/irakli20karat/N43-mongoose-simple-tut
+// This code demonstrates how to use Mongoose to connect to a MongoDB database, define a schema, create a model, and perform CRUD operations. 
+// It also shows how to query the database using Mongoose's querying capabilities.
